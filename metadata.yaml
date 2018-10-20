@@ -1,5 +1,5 @@
 _repo: Le-Monde-comme-il-va-vision-de-Babouc_5138
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PQ'
 - !lcsh 'French literature'
+- GITenberg
 title: Le Monde comme il va, vision de Babouc
 url: http://www.gutenberg.org/ebooks/5138
